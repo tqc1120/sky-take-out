@@ -12,3 +12,9 @@ sky:
     access-key-id: LTAI5t8WkPXF4pBUbqEg82yy
     access-key-secret: SqvwdIBhIsK3FmGclxzDMoBUN6AZ82
     bucket-name: sky-take-out-tk1120
+  redis:
+#    host: 192.168.8.128
+    host: 127.0.0.1
+    port: 6379
+    password: 1120
+    database: 10
