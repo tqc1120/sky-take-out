@@ -5,7 +5,7 @@ import com.sky.entity.ShoppingCart;
 
 import java.util.List;
 
-public interface ShoppingChartService {
+public interface ShoppingCartService {
 
     /**
      * 添加购物车
